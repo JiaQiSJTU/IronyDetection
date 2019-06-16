@@ -1,0 +1,131 @@
+TaskA 
+lr=1e-4 batch_size=32 #encoder_layer=2 taskA_transformer_params.pkl
+Epoch: 001, Loss: 0.64943862, Valid Acc: 0.47395833, Duration: 10.86
+Epoch: 002, Loss: 0.62976640, Valid Acc: 0.47916667, Duration: 10.79
+Epoch: 003, Loss: 0.60956854, Valid Acc: 0.47916667, Duration: 10.81
+Epoch: 004, Loss: 0.63211739, Valid Acc: 0.48177083, Duration: 10.81
+Epoch: 005, Loss: 0.62423730, Valid Acc: 0.47656250, Duration: 10.81
+Epoch: 006, Loss: 0.61839163, Valid Acc: 0.47395833, Duration: 10.81
+Epoch: 007, Loss: 0.61345452, Valid Acc: 0.47916667, Duration: 10.83
+Epoch: 008, Loss: 0.61023843, Valid Acc: 0.47656250, Duration: 10.84
+Epoch: 009, Loss: 0.62228769, Valid Acc: 0.47656250, Duration: 10.83
+Epoch: 010, Loss: 0.60289490, Valid Acc: 0.47656250, Duration: 10.83
+
+lr=1e-4 batch_size=16 #encoder_layer=2 taskA_transformer_params_50.pkl
+Epoch: 001, Loss: 0.72850955, Valid Acc: 0.48437500, Duration: 12.14
+Epoch: 002, Loss: 0.70166355, Valid Acc: 0.48697917, Duration: 12.06
+Epoch: 003, Loss: 0.69919503, Valid Acc: 0.48177083, Duration: 12.06
+Epoch: 004, Loss: 0.71281612, Valid Acc: 0.48958333, Duration: 12.06
+Epoch: 005, Loss: 0.72196615, Valid Acc: 0.49479167, Duration: 12.05
+Epoch: 006, Loss: 0.71104902, Valid Acc: 0.48177083, Duration: 12.07
+Epoch: 007, Loss: 0.72288215, Valid Acc: 0.48958333, Duration: 12.06
+Epoch: 008, Loss: 0.70801640, Valid Acc: 0.49218750, Duration: 12.05
+Epoch: 009, Loss: 0.70651704, Valid Acc: 0.48958333, Duration: 12.06
+Epoch: 010, Loss: 0.71357650, Valid Acc: 0.48697917, Duration: 12.07
+Epoch: 011, Loss: 0.69312060, Valid Acc: 0.48437500, Duration: 12.13
+Epoch: 012, Loss: 0.70219034, Valid Acc: 0.49218750, Duration: 12.19
+Epoch: 013, Loss: 0.69765157, Valid Acc: 0.49479167, Duration: 12.19
+Epoch: 014, Loss: 0.71538246, Valid Acc: 0.48437500, Duration: 12.19
+Epoch: 015, Loss: 0.71256942, Valid Acc: 0.48958333, Duration: 12.12
+Epoch: 016, Loss: 0.70461071, Valid Acc: 0.49218750, Duration: 12.15
+Epoch: 017, Loss: 0.70190161, Valid Acc: 0.49218750, Duration: 12.10
+Epoch: 018, Loss: 0.68966025, Valid Acc: 0.48177083, Duration: 12.14
+Epoch: 019, Loss: 0.69431156, Valid Acc: 0.48437500, Duration: 12.19
+Epoch: 020, Loss: 0.70159519, Valid Acc: 0.48177083, Duration: 12.21
+Epoch: 021, Loss: 0.71080542, Valid Acc: 0.48437500, Duration: 12.20
+Epoch: 022, Loss: 0.69625151, Valid Acc: 0.48437500, Duration: 12.22
+Epoch: 023, Loss: 0.69452465, Valid Acc: 0.47916667, Duration: 12.20
+Epoch: 024, Loss: 0.69563591, Valid Acc: 0.49739583, Duration: 12.10
+Epoch: 025, Loss: 0.70218980, Valid Acc: 0.48958333, Duration: 12.16
+Epoch: 026, Loss: 0.69360268, Valid Acc: 0.49218750, Duration: 12.13
+Epoch: 027, Loss: 0.71281564, Valid Acc: 0.48958333, Duration: 12.10
+Epoch: 028, Loss: 0.67302269, Valid Acc: 0.49218750, Duration: 12.10
+Epoch: 029, Loss: 0.70478368, Valid Acc: 0.48958333, Duration: 12.10
+Epoch: 030, Loss: 0.69704914, Valid Acc: 0.49218750, Duration: 12.11
+Epoch: 031, Loss: 0.69438881, Valid Acc: 0.49479167, Duration: 12.09
+Epoch: 032, Loss: 0.68873394, Valid Acc: 0.48177083, Duration: 12.17
+Epoch: 033, Loss: 0.69836748, Valid Acc: 0.48697917, Duration: 12.19
+Epoch: 034, Loss: 0.68534946, Valid Acc: 0.48177083, Duration: 12.15
+Epoch: 035, Loss: 0.69603413, Valid Acc: 0.48437500, Duration: 12.16
+Epoch: 036, Loss: 0.71407229, Valid Acc: 0.47916667, Duration: 12.24
+Epoch: 037, Loss: 0.70258325, Valid Acc: 0.48177083, Duration: 12.20
+Epoch: 038, Loss: 0.70024967, Valid Acc: 0.48697917, Duration: 12.23
+Epoch: 039, Loss: 0.70867193, Valid Acc: 0.47395833, Duration: 12.17
+Epoch: 040, Loss: 0.68206602, Valid Acc: 0.48437500, Duration: 12.17
+Epoch: 041, Loss: 0.69531387, Valid Acc: 0.48437500, Duration: 12.16
+Epoch: 042, Loss: 0.69389570, Valid Acc: 0.48697917, Duration: 12.16
+Epoch: 043, Loss: 0.70465934, Valid Acc: 0.48437500, Duration: 12.21
+Epoch: 044, Loss: 0.70324665, Valid Acc: 0.48437500, Duration: 12.18
+Epoch: 045, Loss: 0.67243379, Valid Acc: 0.48958333, Duration: 12.21
+Epoch: 046, Loss: 0.67244339, Valid Acc: 0.47656250, Duration: 12.24
+Epoch: 047, Loss: 0.68362451, Valid Acc: 0.48958333, Duration: 12.15
+Epoch: 048, Loss: 0.69288856, Valid Acc: 0.48437500, Duration: 12.17
+Epoch: 049, Loss: 0.68822110, Valid Acc: 0.48177083, Duration: 12.16
+Epoch: 050, Loss: 0.70106137, Valid Acc: 0.48697917, Duration: 12.19
+
+lr=1e-4 batch_size=16 #encoder_layer=6 taskA_transformer_params_6.pkl
+Epoch: 001, Loss: 0.68093145, Valid Acc: 0.50520833, Duration: 28.70
+Epoch: 002, Loss: 1.00312412, Valid Acc: 0.52083333, Duration: 28.63
+Epoch: 003, Loss: 0.69663286, Valid Acc: 0.48697917, Duration: 28.71
+Epoch: 004, Loss: 0.70067251, Valid Acc: 0.50520833, Duration: 28.76
+Epoch: 005, Loss: 0.63999093, Valid Acc: 0.49479167, Duration: 28.74
+Epoch: 006, Loss: 0.69614339, Valid Acc: 0.46354167, Duration: 28.80
+Epoch: 007, Loss: 0.67852509, Valid Acc: 0.50520833, Duration: 28.73
+Epoch: 008, Loss: 0.67970270, Valid Acc: 0.49739583, Duration: 28.71
+Epoch: 009, Loss: 0.69306391, Valid Acc: 0.50000000, Duration: 28.78
+Epoch: 010, Loss: 0.75705910, Valid Acc: 0.50520833, Duration: 28.73
+
+lr=1e-4 batch_size=16 #encoder_layer=6 without_position_enc taskA_transformer_params_6_2.pkl
+Epoch: 001, Loss: 3.18952894, Valid Acc: 0.50520833, Duration: 28.58
+Epoch: 002, Loss: 1.34430146, Valid Acc: 0.50520833, Duration: 28.57
+Epoch: 003, Loss: 1.02112269, Valid Acc: 0.50520833, Duration: 28.58
+Epoch: 004, Loss: 0.92442930, Valid Acc: 0.50520833, Duration: 28.52
+Epoch: 005, Loss: 0.68194693, Valid Acc: 0.50520833, Duration: 28.54
+Epoch: 006, Loss: 0.63983822, Valid Acc: 0.59114583, Duration: 28.49
+Epoch: 007, Loss: 0.69918263, Valid Acc: 0.50520833, Duration: 28.53
+Epoch: 008, Loss: 0.66268098, Valid Acc: 0.54427083, Duration: 28.60
+Epoch: 009, Loss: 0.64646327, Valid Acc: 0.56250000, Duration: 28.48
+Epoch: 010, Loss: 0.86916125, Valid Acc: 0.54166667, Duration: 28.53
+
+------
+TaskB
+lr=0.01 batch_size=32 weighted #encoder_layer=2
+Epoch: 001, Loss: 7.44816732, Valid Acc: 0.14666667, Duration: 16.29
+Epoch: 002, Loss: 8.11258125, Valid Acc: 0.13884058, Duration: 16.03
+Epoch: 003, Loss: 7.62725782, Valid Acc: 0.16202899, Duration: 15.85
+Epoch: 004, Loss: 7.40354538, Valid Acc: 0.14260870, Duration: 15.94
+Epoch: 005, Loss: 8.31735706, Valid Acc: 0.15536232, Duration: 16.00
+Epoch: 006, Loss: 8.32661152, Valid Acc: 0.15217391, Duration: 16.03
+Epoch: 007, Loss: 7.65757561, Valid Acc: 0.14318841, Duration: 15.86
+Epoch: 008, Loss: 8.33999634, Valid Acc: 0.14028986, Duration: 15.83
+Epoch: 009, Loss: 9.26104736, Valid Acc: 0.14115942, Duration: 15.88
+Epoch: 010, Loss: 8.72265053, Valid Acc: 0.13739130, Duration: 15.83
+
+lr=0.01 batch_size=32 unweighted taskB_transformer_params.pkl
+Epoch: 001, Loss: 3.56624198, Valid Acc: 0.41594203, Duration: 15.92
+Epoch: 002, Loss: 3.54024625, Valid Acc: 0.41768116, Duration: 16.03
+Epoch: 003, Loss: 3.69076753, Valid Acc: 0.42318841, Duration: 16.02
+Epoch: 004, Loss: 3.44658875, Valid Acc: 0.42492754, Duration: 15.91
+Epoch: 005, Loss: 4.00949574, Valid Acc: 0.42289855, Duration: 15.84
+Epoch: 006, Loss: 3.37009215, Valid Acc: 0.42434783, Duration: 15.83
+Epoch: 007, Loss: 4.01055622, Valid Acc: 0.43217391, Duration: 15.85
+Epoch: 008, Loss: 3.71678758, Valid Acc: 0.42057971, Duration: 15.96
+Epoch: 009, Loss: 3.03426409, Valid Acc: 0.41652174, Duration: 16.02
+Epoch: 010, Loss: 2.99189854, Valid Acc: 0.42463768, Duration: 16.03
+
+lr=0.01 batch_size=16 #encoder_layer=2 taskB_transformer_params_50.pkl
+Epoch: 001, Loss: 3.91715741, Valid Acc: 0.46579710, Duration: 17.43
+Epoch: 002, Loss: 4.27613163, Valid Acc: 0.46028986, Duration: 17.23
+Epoch: 003, Loss: 3.78134203, Valid Acc: 0.45159420, Duration: 17.36
+Epoch: 004, Loss: 4.17114639, Valid Acc: 0.45391304, Duration: 17.30
+Epoch: 005, Loss: 3.38640666, Valid Acc: 0.45681159, Duration: 17.22
+Epoch: 006, Loss: 3.63597345, Valid Acc: 0.45159420, Duration: 17.20
+Epoch: 007, Loss: 3.63872647, Valid Acc: 0.45391304, Duration: 17.21
+Epoch: 008, Loss: 3.68884540, Valid Acc: 0.44956522, Duration: 17.20
+Epoch: 009, Loss: 4.38357258, Valid Acc: 0.45681159, Duration: 17.21
+Epoch: 010, Loss: 3.52651286, Valid Acc: 0.44579710, Duration: 17.50
+
+lr=0.01 batch_size=16 #encoder_layer=6 taskB_transformer_params_6.pkl
+
+lr=1e-4 batch_size=16 #encoder_layer=6 without_position_enc taskA_transformer_params_6_2.pkl
+
